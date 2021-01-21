@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hi
 22
+=======
+>>>>>>> parent of a45b69c... add text
