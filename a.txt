@@ -6,3 +6,4 @@ hi
 >>>>>>> parent of a45b69c... add text
 =======
 >>>>>>> parent of a45b69c... add text
+abc
